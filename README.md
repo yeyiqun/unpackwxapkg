@@ -3,4 +3,4 @@
 
 运行：
 
-python unwxpkg.py + filename
+python wxapkg_unpack.py filename [dirpath]
